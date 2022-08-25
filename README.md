@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on  Professional Developers out there
-- 📫 How to reach me, email me at carlgarciaballenas 
+- 📫 How to reach me, email me at carlballenas25@gmail.com
 
 <!---
 CarlTheBeginner/CarlTheBeginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
